@@ -15,7 +15,7 @@ while daftar   =='y':
             print("Materi : Tree\n\n")
         elif pilih == 2:
             print("\n\n1. hans   | 15240358")
-            print("2. Pikar  | ")
+            print("2. Pikar  | 15240302")
             print("3. Muhlis | ")
             print("2. Fakih  | ")
             print("2. Abyan  | ")
